@@ -2,6 +2,8 @@
   
 # Russell Morbey
   
+## About me
+  
 </div>
 
 I'm a 32 year old supporter of people, and I am a [Makers Academy](https://makers.tech/) graduate (April '22 intake).
