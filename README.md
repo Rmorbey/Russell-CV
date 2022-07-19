@@ -145,8 +145,8 @@ _Agency Class Room Teaching Assistant_
 
 ## What I do for fun ( Hobbies )
 
-* #### Reading: #### I like to read sci-fy and fantasy novels, I'm eagerly awaiting Patrick Rothfuss' highly anticipated "The Doors of Stone." as well as Pierce Brown's final book in the Red Rising Saga "Lightbringer".
-* #### Board/Table top games: #### Current favourite board game is "The Quacks of Quedlinburg." where you play as charlatans or quack doctors brewing potions adding ingredients one at a time. I also enjoy communal story telling games and RPGs, such as "D&D", "Call of Cthulhu" as well as "Ten Candles". 
-* #### Video games: #### Currently sailing the seven seas as a rag tag crew of salty sea dogs in "Sea of Thieves" coordinating plundering, riddle solving and treasure hunting with friends from a far.
-* #### Bouldering: #### Mastering the basics from V0 to V3 while socialising with friends and strangers a like. Building that all needed hand strength for improved code writing.
-* #### Table Tennis: #### A social player who gets increasingly competative the longer the game goes on. Helluva a serve, but I've been told I hold the racket weird.
+* **Reading:** I like to read sci-fy and fantasy novels, I'm eagerly awaiting Patrick Rothfuss' highly anticipated "The Doors of Stone." as well as Pierce Brown's final book in the Red Rising Saga "Lightbringer".
+* **Board/Table top games:** Current favourite board game is "The Quacks of Quedlinburg." where you play as charlatans or quack doctors brewing potions adding ingredients one at a time. I also enjoy communal story telling games and RPGs, such as "D&D", "Call of Cthulhu" as well as "Ten Candles". 
+* **Video games:** Currently sailing the seven seas as a rag tag crew of salty sea dogs in "Sea of Thieves" coordinating plundering, riddle solving and treasure hunting with friends from a far.
+* **Bouldering:** Mastering the basics from V0 to V3 while socialising with friends and strangers a like. Building that all needed hand strength for improved code writing.
+* **Table Tennis:** A social player who gets increasingly competative the longer the game goes on. Helluva a serve, but I've been told I hold the racket weird.
