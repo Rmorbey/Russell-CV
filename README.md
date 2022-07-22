@@ -2,6 +2,8 @@
   
 # Russell Morbey
   
+[![LinkedIn]](https://www.linkedin.com/in/russell-morbey-706063246/)
+  
 ## A bit about me ( my "this is your life" moment )
   
 </div>
