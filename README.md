@@ -92,7 +92,7 @@ What excites me most about tech is the seemingly unlimited potential to develop 
 
 #### An excellent communicator, presenter with strong timekeeping skills  ####
 
-* I lead communication lessons for mainly non-verbal students. Where I broke down the basic components of social communication into tailor made accessible resources and interactive games. Which resulted in the students verbal communication growing over a period of time and to reach a place where they could successfully verbally communicate simple sentences.
+* I led communication lessons for mainly non-verbal students. Where I broke down the basic components of social communication into tailor made accessible resources and interactive games. Which resulted in the students verbal communication growing over a period of time and to reach a place where they could successfully verbally communicate simple sentences.
 
 * I provided support and workshops for colleagues in how to use our own personal talents to structure communication lessons so the students felt safe in a productive learning environment. 
 
