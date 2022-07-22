@@ -152,3 +152,7 @@ _Agency Class Room Teaching Assistant_
 * **Video games:** Currently sailing the seven seas as a rag tag crew of salty sea dogs in "Sea of Thieves" coordinating plundering, riddle solving and treasure hunting with friends from a far.
 * **Bouldering:** Mastering the basics from V0 to V3 while socialising with friends and strangers a like. Building that all needed hand strength for improved code writing.
 * **Table Tennis:** A social player who gets increasingly competative the longer the game goes on. Helluva a serve, but I've been told I hold the racket weird.
+
+
+<!-- Badge Links -->
+[LinkedIn]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
