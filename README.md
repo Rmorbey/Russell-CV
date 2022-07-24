@@ -14,7 +14,9 @@ When not doing the above I also eat pizza, plays games and practice singing song
 
 Before taking the leap into software devlopement I worked at various Special Educational Needs Schools across london over an 8 year period. Over that time I was able to help support the most vulnerable children and young adults develop their emotional and social skills, as well as teach them how to build independance and develop work place skills to help them obtain future employment. I ran communication lessons for non-verbal students, and watching them interact with the games I had made, and the progress they achieved with their verbal communication.
 
-In my own education I graduated from East 15 Acting school with a first class degree in Acting and Contemporary Theatre. Where I spent 4 years developing my own skills of collaboration, team work, flexibility and an understanding of self worth. I participated in a range of company led productions, devising, writing and creating puppetry from scratch without any prior knowledge using obscure textbooks and old images to build puppets from cardboard, foam and wire coat hangers.
+In my own education I graduated from East 15 Acting school with a first class degree in Acting and Contemporary Theatre. Where I spent 4 years developing my own skills of collaboration, team work, flexibility and an understanding of self worth.
+
+While working in schools I got my first glimpse into the world of coding and software development where I would assist the students in an hour of code a week, we built a lego robot and were able to control it's movements using simple lines of code. I've always liked building things, and found the interaction between the two interesting. After working through the pandemic and realising that I wanted a change of career to something where I could work remotely and possibly from anywhere in the world, I started to look into the possibility of re training as a software developer. Combining my interests of building things and the possibility of tech led me to start my journey with Makers.
 
 What excites me most about tech is the seemingly unlimited potential to develop software that will have a positive impact on its users and the people around them. Software that can support people from all walks of life, especially for those who are overlooked. My future personal projects are to build the pen and paper learning resources I made for my non-verbal students, but as interactive and accessible web/mobile apps.  
 
@@ -92,25 +94,23 @@ What excites me most about tech is the seemingly unlimited potential to develop 
 
 #### An excellent communicator, presenter with strong timekeeping skills  ####
 
-* I led communication lessons for mainly non-verbal students. Where I broke down the basic components of social communication into tailor made accessible resources and interactive games. Which resulted in the students verbal communication growing over a period of time and to reach a place where they could successfully verbally communicate simple sentences.
+* I led communication lessons for mainly non-verbal students. Where I broke down the basic components of social communication into tailor made accessible resources and interactive games. Which resulted in the students verbal communication growing over a period of time and to reach a place where they could successfully verbally communicate simple sentences. These skills helped me in leading daily standups and retros during our projects at Makers. This enabled our team to understand our daily goals and achievements and kept us organised and focused on our specific tasks.
 
-* I provided support and workshops for colleagues in how to use our own personal talents to structure communication lessons so the students felt safe in a productive learning environment. 
+* I provided support and workshops for colleagues in how to use our own personal talents to structure communication lessons so the students felt safe in a productive learning environment. This skill helped during our final project while acting as Project Manager as I was able to ascertain the strengths and interests of our team and encourage them to use the skills they had to help to accomplish our daily tasks and goals. It also helped when blockers would appear so I was able to reassure my team member that their individual skills were an asset and were vital to the progression of our project so far.
 
 #### A dedicated, adaptive, problem solver ####
 
-* Going from in person teaching to at the drop of a hat creating interactive online resources for students to access remotely during the pandemic.
+* Going from in person teaching to at the drop of a hat creating interactive online resources for students to access remotely during the pandemic. Adapting in person classes into video tutorials on independent skills, making the bed, making breakfast, making a cup of tea, washing the dishes, hoovering the flat, check ins and emotional regulation. This provided structure and reassurance in a world that can quickly change. These skills helped during our projects and while pair programming, while over coming blockers or feelings of imposter syndrome. Checking in with peoples emotional states and having open and honest conversation helped us progress even when blockers appeared.
 
-* Adapting in person classes into video tutorials on independent skills, making the bed, making breakfast, making a cup of tea, washing the dishes, hoovering the flat, check ins and emotional regulation. This provided structure and reassurance in a world that can quickly change.
-
-* Understanding the ever changing needs of the specific students, and tailoring resources for them. Building a communication board that allowed a specfic student to build simple sentences with word-image cards to allow them to simplify their verbal process so they felt empowered to have their needs met.
+* Understanding the ever changing needs of the specific students, and tailoring resources for them. Building a communication board that allowed a specfic student to build simple sentences with word-image cards to allow them to simplify their verbal process so they felt empowered to have their needs met. I saw that the student was struggling, and we weren't being as accessible as we could. So I took the initiative to build and deliver the resources needed for him to communicate both verbally and non-verbally if needed. During our final project after a day of blockers the group was feeling dejected. While running the end of day retro I suggested we played a game of online pictionary to raise spirits and give our minds a break from the blockers we were facing.
 
 #### A creative, detail orientated, quick learner who works on his feet ####
 
-* I've worked on several different productions that required different forms and styles of pupperty. Built entirely from scratch, usually from studying an image, or source material and spending a large amount of time thoroughly planning how it would function and how the performer intended to use it. From building a simple mechanical parrot handle umbrella for a show about Mary poppins, to constructing three cardboard Bunraku styled puppets for a telling of Shakespeare's Richard III.
+* I've worked on several different productions that required different forms and styles of pupperty. Built entirely from scratch, usually from studying an image, or source material and spending a large amount of time thoroughly planning how it would function and how the performer intended to use it. From building a simple mechanical parrot handle umbrella for a show about Mary poppins, to constructing three cardboard Bunraku styled puppets for a telling of Shakespeare's Richard III. These skills helped me during my projects, because of my eye for detail I was able to fix bugs, find mistakes and assist with errors. 
 
-* While working full time as an SEN TA, I would also be juggling learning lines for productions on a short time scale. Often having to be off script in under a day or two, as well as doing the required research to fully fulfill the characters needs and journey.
+* While working full time as an SEN TA, I would also be juggling learning lines for productions on a short time scale. Often having to be off script in under a day or two, as well as doing the required research to fully fulfill the characters needs and journey. These skills helped while learning new languages and frameworks. On one of our projects I was given a seed project to work from in a framework I had never seen before. I was able to build an understanding around it in a few days, especially learning from testing it.
 
-* Working in a devised, movement and clowning based practice, I had to be ready to adapt and be quick on my toes. Being able to react and develop ideas and impulses in a group of performers while building a harmonious product.
+* Working in a devised, movement and clowning based practice, I had to be ready to adapt and be quick on my toes. Being able to react and develop ideas and impulses in a group of performers while building a harmonious product. The skills of collaboration helped during my projects as I was able to quickly adapt and work with different pairing partners as well as change course from one way of thinking to another. 
 
 ## Where I've been learning ( Education )
 
@@ -130,7 +130,16 @@ Full-time 16 week intensive software development bootcamp focusing on:
 * Subjects included. Devising, clowning, voice over, dance, physical theatre, puppetry, singing, movement, gymnastics, script writing and directing.
 
 ## Where I've Worked ( Experience )
+  
+Relevant work experience 
+Role - Company name - dates 
+• Each bullet point under here wants to show : 
+• What is the skill? (e.g created and impl 
+• How did you demonstrate it in this role 
+• What was its impact? 
 
+<IDENTIFY THE SKILLS THAT WE USED TO DO THE TASKS. WHAT SKILLS ARE YOU IMPLEMENTING. LEADERSHIP, FEEDBACK, EMPATHY, USING INTIATIVE TO INTRODUCE, BUILD AND DELIVER THE RESOURCES>
+          
 **Samuel Rhodes School** (Feb-2020 to Dec-2021)  
 _Class Room Teaching Assistant_
 
