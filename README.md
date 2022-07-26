@@ -12,7 +12,7 @@ I'm a personable, creative and detail focused Full Stack Software Developer. As 
 
 When not doing the above I also eat pizza, plays games and practice singing songs as Kermit the frog.
 
-Before taking the leap into software devlopement I worked at various Special Educational Needs Schools across london over an 8 year period. Over that time I was able to help support the most vulnerable children and young adults develop their emotional and social skills, as well as teach them how to build independance and develop work place skills to help them obtain future employment. I ran communication lessons for non-verbal students, and watching them interact with the games I had made, and the progress they achieved with their verbal communication.
+Before taking the leap into software developement I worked at various Special Educational Needs Schools across london over an 8 year period. Over that time I was able to help support the most vulnerable children and young adults develop their emotional and social skills, as well as teach them how to build independance and develop work place skills to help them obtain future employment. I ran communication lessons for non-verbal students, and watching them interact with the games I had made, and the progress they achieved with their verbal communication.
 
 In my own education I graduated from East 15 Acting school with a first class degree in Acting and Contemporary Theatre. Where I spent 4 years developing my own skills of collaboration, team work, flexibility and an understanding of self worth.
 
