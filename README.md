@@ -57,7 +57,6 @@ What excites me most about tech is the seemingly unlimited potential to develop 
           <li>Jest</li>
           <li>React Testing Library</li>
           <li>Cypress</li>
-          <li>IRB</li>
           <li>Rspec</li>
           <li>Sinatra</li>
           <li>Capybara</li>
