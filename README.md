@@ -146,7 +146,6 @@ _Agency Class Room Teaching Assistant_
 
 * Worked at a range of different schools from primary SEN, primary mainstream 1:1 with an SEN pupil. To secondary SEN pupil referral units dealing with behaviour as well as social and emotional skills. Using my skills of resilience and compassion I was able to withstand threats and attacks, of being hit, bit or spat on, while still reassuring the student that they weren't in trouble and that everything was going to be alright. On several occasions I was able to defuse situations which would have ended up putting the students safety in danger.
 
-
 ## What I do for fun ( Hobbies )
 
 * **Reading:** I like to read sci-fy and fantasy novels, I'm eagerly awaiting Patrick Rothfuss' highly anticipated "The Doors of Stone." as well as Pierce Brown's final books in the Red Rising Saga "Lightbringer" and secret 7th book, "Red God".
