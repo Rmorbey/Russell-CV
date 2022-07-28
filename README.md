@@ -130,7 +130,7 @@ Full-time 16 week intensive software development bootcamp focusing on:
 
 ## Where I've Worked ( Experience )
           
-**Samuel Rhodes School** (Feb-2020 to Dec-2021)  
+**Samuel Rhodes School** (Feb-2020 to Dec-2021)
 _Class Room Teaching Assistant_
 
 * Working with secondary and college aged students with a range of special educational needs and disabilities. Using my skills of empathy to understand and work with the students to help them achieve all of their potential. Being neurodiverse myself and displaying my own personal skills I showed them that no matter their diagnosis, everyone has a personal basket of skills that are just as valid and valued as others. The student's confidence grew, and they achieved things even they couldn't have imagined. Learning how to make a meal from scratch, by themselves, and serving it up to their peers.
@@ -139,7 +139,7 @@ _Class Room Teaching Assistant_
 
 * Led communication and self independence lessons where I built tailor made resources from scratch. Using my skills of initiative I was able to understand the students specific learning needs, and was able to build and deliver resources to their learning levels, but also engaging enough, so they would enjoy what they were doing. I also made resources that visually showed the students class structure, and broke their daily tasks down into simple to understand chunks. I was asked to deliver my resources to other classrooms, so the students were provided with coherent structure across all subjects. This caused the students to engage more in classes and to alleviate anxiety within the students.
 
-**Sugarman Education** (Dec-2013 to Feb-2020)  
+**Sugarman Education** (Dec-2013 to Feb-2020)
 _Agency Class Room Teaching Assistant_
 
 * Worked with primary and secondary aged students with a range of special educational needs and disabilities, as well as emotional needs. Using my adaptability skills I was able to work in a range of different schools and environments that would often change from day to day. As an agency member of staff I was often told that the students warmed to me quickly, and I was often asked to return on several occasions. This resulted in the students staying focused and showing no signs of anxiety around working with someone new.
