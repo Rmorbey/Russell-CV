@@ -139,7 +139,7 @@ What excites me most about tech is the seemingly unlimited potential to develop 
 ##### <ins>Problem Solver skills:</ins> #####
 
 * Understanding the ever changing needs of the specific students, and tailoring resources for them.
-* Building a communication board that allowed a specfic student to build simple sentences with word-image cards to allow them to simplify their verbal process so they felt empowered to have their needs met. 
+* Building a communication board that allowed a specific student to build simple sentences with word-image cards to allow them to simplify their verbal process so they felt empowered to have their needs met. 
 * I saw that the student was struggling, and we weren't being as accessible as we could.
 * So I took the initiative to build and deliver the resources needed for him to communicate both verbally and non-verbally if needed. 
 
