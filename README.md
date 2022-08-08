@@ -94,24 +94,92 @@ What excites me most about tech is the seemingly unlimited potential to develop 
 ## What I excel at ( Skills )
 
 #### An excellent communicator, presenter with strong timekeeping skills  ####
+Relevant work experience 
+Role - Company name - dates 
+• Each bullet point under here wants to show : 
+• What is the skill? (e.g created and impl 
+• How did you demonstrate it in this role 
+• What was its impact? 
+##### Communication/Timekeeping skills #####
 
-* I led communication lessons for mainly non-verbal students. Where I broke down the basic components of social communication into tailor made accessible resources and interactive games. Which resulted in the students verbal communication growing over a period of time and to reach a place where they could successfully verbally communicate simple sentences. These skills helped me in leading daily standups and retros during our projects at Makers. This enabled our team to understand our daily goals and achievements and kept us organised and focused on our specific tasks.
+* I led communication lessons for mainly non-verbal students.
+* Where I broke down the basic components of social communication into tailor made accessible resources and interactive games. 
+* Which resulted in the students verbal communication growing over a period of time and to reach a place where they could successfully verbally communicate simple sentences. 
 
-* I provided support and workshops for colleagues in how to use our own personal talents to structure communication lessons so the students felt safe in a productive learning environment. This skill helped during our final project while acting as Project Manager as I was able to ascertain the strengths and interests of our team and encourage them to use the skills they had to help to accomplish our daily tasks and goals. It also helped when blockers would appear so I was able to reassure my team member that their individual skills were an asset and were vital to the progression of our project so far.
+##### How I implemented these into a tech environment #####
+
+* These skills helped me in leading daily standups and retros during our projects at Makers.
+* This enabled our team to understand our daily goals and achievements and kept us organised and focused on our specific tasks.
+
+##### Presenter skills #####
+
+* I provided support and workshops for colleagues in how to use our own personal talents to structure communication lessons so the students felt safe in a productive learning environment.
+* Colleagues felt more comfortable and confident while leading lessons.
+* Students achieved more and progressed faster.
+
+##### How I implemented these into a tech environment #####
+
+* This skill helped during our final project while acting as Project Manager as I was able to ascertain the strengths and interests of our team and encourage them to use the skills they had to help to accomplish our daily tasks and goals.
+* It also helped when blockers would appear so I was able to reassure my team member that their individual skills were an asset and were vital to the progression of our project so far.
+* Sharing my knowledge and learnings about different aspects of code or framework when I saw someone was struggling.
 
 #### A dedicated, adaptive, problem solver ####
 
-* Going from in person teaching to at the drop of a hat creating interactive online resources for students to access remotely during the pandemic. Adapting in person classes into video tutorials on independent skills, making the bed, making breakfast, making a cup of tea, washing the dishes, hoovering the flat, check ins and emotional regulation. This provided structure and reassurance in a world that can quickly change. These skills helped during our projects and while pair programming, while over coming blockers or feelings of imposter syndrome. Checking in with peoples emotional states and having open and honest conversation helped us progress even when blockers appeared.
+##### Dedicated / Adaptive skills #####
 
-* Understanding the ever changing needs of the specific students, and tailoring resources for them. Building a communication board that allowed a specfic student to build simple sentences with word-image cards to allow them to simplify their verbal process so they felt empowered to have their needs met. I saw that the student was struggling, and we weren't being as accessible as we could. So I took the initiative to build and deliver the resources needed for him to communicate both verbally and non-verbally if needed. During our final project after a day of blockers the group was feeling dejected. While running the end of day retro I suggested we played a game of online pictionary to raise spirits and give our minds a break from the blockers we were facing.
+* Going from in person teaching to at the drop of a hat creating interactive online resources for students to access remotely during the pandemic.
+* Adapting in person classes into video tutorials on independent skills, making the bed, making breakfast, making a cup of tea, washing the dishes, hoovering the flat, check ins and emotional regulation. 
+* This provided structure and reassurance in a world that can quickly change. 
+
+##### How I implemented these into a tech environment #####
+
+*  These skills helped during our projects and while pair programming, while over coming blockers or feelings of imposter syndrome. 
+*  Checking in with peoples emotional states and having open and honest conversation helped us progress even when blockers appeared.
+
+##### Problem Solver skills #####
+
+* Understanding the ever changing needs of the specific students, and tailoring resources for them.
+* Building a communication board that allowed a specfic student to build simple sentences with word-image cards to allow them to simplify their verbal process so they felt empowered to have their needs met. 
+* I saw that the student was struggling, and we weren't being as accessible as we could.
+* So I took the initiative to build and deliver the resources needed for him to communicate both verbally and non-verbally if needed. 
+
+##### How I implemented these into a tech environment #####
+
+* During our final project after a day of blockers the group was feeling dejected.
+* While running the end of day retro I suggested we played a game of online pictionary to raise spirits and give our minds a break from the blockers we were facing.
 
 #### A creative, detail orientated, quick learner who works on his feet ####
 
-* I've worked on several different productions that required different forms and styles of pupperty. Built entirely from scratch, usually from studying an image, or source material and spending a large amount of time thoroughly planning how it would function and how the performer intended to use it. From building a simple mechanical parrot handle umbrella for a show about Mary poppins, to constructing three cardboard Bunraku styled puppets for a telling of Shakespeare's Richard III. These skills helped me during my projects, because of my eye for detail I was able to fix bugs, find mistakes and assist with errors. This helped in building good quality, well tested code.
+##### Detail orientated skills #####
 
-* While working full time as an SEN TA, I would also be juggling learning lines for productions on a short time scale. Often having to be off script in under a day or two, as well as doing the required research to fully fulfill the characters needs and journey. These skills helped while learning new languages and frameworks. On one of our projects I was given a seed project to work from in a framework I had never seen before. I was able to build an understanding around it in a few days, especially learning from testing it.
+* I've worked on several different productions that required different forms and styles of pupperty. 
+* Built entirely from scratch, usually from studying an image, or source material and spending a large amount of time thoroughly planning how it would function and how the performer intended to use it. 
+* From building a simple mechanical parrot handle umbrella for a show about Mary poppins, to constructing three cardboard Bunraku styled puppets for a telling of Shakespeare's Richard III. 
 
-* Working in a devised, movement and clowning based practice, I had to be ready to adapt and be quick on my toes. Being able to react and develop ideas and impulses in a group of performers while building a harmonious product. The skills of collaboration helped during my projects as I was able to quickly adapt and work with different pairing partners as well as change course from one way of thinking to another.
+##### How I implemented these into a tech environment #####
+
+* These skills helped me during my projects, because of my eye for detail I was able to fix bugs, find mistakes and assist with errors. This helped in building good quality, well tested code.
+
+##### Quick learner skills #####
+
+* While working full time as an SEN TA, I would also be juggling learning lines for productions on a short time scale.
+* Often having to be off script in under a day or two, as well as doing the required research to fully fulfill the characters needs and journey.
+
+##### How I implemented these into a tech environment #####
+
+* These skills helped while learning new languages and frameworks. 
+* On one of our projects I was given a seed project to work from in a framework I had never seen before. 
+* I was able to build an understanding around it in a few days, especially learning from testing it.
+
+##### Creative/Working on my feet skills #####
+
+* Working in a devised, movement and clowning based practice, I had to be ready to adapt and be quick on my toes.
+* Being able to react and develop ideas and impulses in a group of performers while building a harmonious product. 
+
+##### How I implemented these into a tech environment #####
+
+* The skills of collaboration helped during my projects as I was able to quickly adapt and work with different pairing partners as well as change course from one way of thinking to another.
+* Able to judge how people were feeling and assist where I could.
 
 ## Where I've been learning ( Education )
 
