@@ -163,6 +163,7 @@ What excites me most about tech is the seemingly unlimited potential to develop 
 * Because of my eye for detail I was able to fix bugs.
 * Find mistakes and assist with errors.
 * This helped in building good quality, well tested code.
+* Thorough planning of how the application interacted between Front-end and Back-end.
 
 ##### <ins>Quick learner skills:</ins> #####
 
