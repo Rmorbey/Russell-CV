@@ -85,7 +85,7 @@ What excites me most about tech is the seemingly unlimited potential to develop 
 | Name     |Group/Alone  | Description | Technologies|
 |---       |---          |---          |---          |
 | [Palendar](https://github.com/Rmorbey/Palendar) | Group | A web app from scratch. Finding a day to socialise with your friends, made easier. | MongoDB, Express.js, React.js, Node.js, HTML5, CSS3, Jest, Cypress, React testing Library|
-| [Bettah](https://github.com/Rmorbey/acebook-allowTeamToReceiveName) | Group | A clone of Facebook | JavaScript, Node.js, Express, Handblebars, HTML5, CSS3, Jest, Mongo, Cypress |
+| [Bettah](https://github.com/Rmorbey/acebook-allowTeamToReceiveName) | Group | A clone of Facebook | JavaScript, Node.js, Express, Handlebars, HTML5, CSS3, Jest, Mongo, Cypress |
 | [MakersBnB](https://github.com/Rmorbey/MakersBnB)| Group | A clone of AirBnB | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5, PostgreSQL |
 |[Bank Tech Test](https://github.com/Rmorbey/bank-tech-test) | Alone | A simple application that allows a customer to have a bank account which runs in Node REPL.| JavaScript, Node.js, Jest |
 
