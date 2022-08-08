@@ -174,7 +174,7 @@ What excites me most about tech is the seemingly unlimited potential to develop 
 ##### <ins>How I implemented these into a tech environment:</ins> #####
 
 * These skills helped while learning new languages and frameworks. 
-* Not feeling overwhelmed with new seed or legacy projcts.
+* Not feeling overwhelmed with new seed or legacy projects.
 * Building an understanding around new concepts and frameworks in a few days.
 * Researching best practicies and expected testing structures.
 
