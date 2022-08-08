@@ -12,7 +12,7 @@ I'm a personable, creative and detail focused Full Stack Software Engineer. As w
 
 When not doing the above I also search for, and then eat, the best vegan pizza in London, play games and practice singing songs as Kermit the frog.
 
-Before taking the leap into software developement I worked at various Special Educational Needs Schools across London over an 8 year period. I ran communication lessons for non-verbal students, and watching them interact with the games I made, and getting to see the progress they achieved with their social skills and verbal communication was extremely rewarding.
+Before taking the leap into software development I worked at various Special Educational Needs Schools across London over an 8 year period. I ran communication lessons for non-verbal students, and watching them interact with the games I made, and getting to see the progress they achieved with their social skills and verbal communication was extremely rewarding.
 
 I graduated from East 15 Acting school with a first class BA degree in Acting and Contemporary Theatre. Where I spent 4 years developing my own skills of collaboration, team work, flexibility and an understanding of self worth.
 
