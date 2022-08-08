@@ -16,7 +16,7 @@ Before taking the leap into software developement I worked at various Special Ed
 
 I graduated from East 15 Acting school with a first class BA degree in Acting and Contemporary Theatre. Where I spent 4 years developing my own skills of collaboration, team work, flexibility and an understanding of self worth.
 
-While working in schools I got my first glimpse into the world of coding and software development. I would assist the students in an hour of code a week. We built a lego robot and were able to control it's movements using simple lines of code. I've always liked building things, and found the interaction between the two interesting.
+While working in schools I got my first glimpse into the world of coding and software development. I would assist the students in an hour of code a week. We built a lego robot and were able to control it's movements using simple lines of code.
 
 After working through the pandemic and realising that I wanted a change of career, I started to look into the possibility of re training as a software engineer. Combining my interests of building things and the possibility of tech led me to start my journey with Makers.
 
