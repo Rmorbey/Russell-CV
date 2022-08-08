@@ -94,13 +94,8 @@ What excites me most about tech is the seemingly unlimited potential to develop 
 ## What I excel at ( Skills )
 
 #### An excellent communicator, presenter with strong timekeeping skills  ####
-Relevant work experience 
-Role - Company name - dates 
-• Each bullet point under here wants to show : 
-• What is the skill? (e.g created and impl 
-• How did you demonstrate it in this role 
-• What was its impact? 
-##### Communication/Timekeeping skills #####
+
+<u>Communication/Timekeeping skills</u>
 
 * I led communication lessons for mainly non-verbal students.
 * Where I broke down the basic components of social communication into tailor made accessible resources and interactive games. 
