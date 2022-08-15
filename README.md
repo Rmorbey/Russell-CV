@@ -8,7 +8,7 @@
   
 </div>
 
-I'm a personable, creative and detail focused Full Stack Software Engineer. As well as in general an all round supporter of people, and I am a recent [Makers Academy](https://makers.tech/) graduate (April '22 intake).
+I'm a personable, creative and detail focused Software Engineer. As well as in general an all round supporter of people, and I am a recent [Makers Academy](https://makers.tech/) graduate (April '22 intake).
 
 When not doing the above I also search for, and then eat, the best vegan pizza in London, play games and practice singing songs as Kermit the frog.
 
