@@ -208,6 +208,21 @@ Full-time 16 week intensive software development bootcamp focusing on:
 * Subjects included. Devising, clowning, voice over, dance, physical theatre, puppetry, singing, movement, gymnastics, script writing and directing.
 
 ## Where I've Worked ( Experience )
+
+**Goodlord** (Oct-2022 to Jan-2023)
+_Software Engineering Intern_
+
+##### <ins>Adaptable skills:</ins> #####
+
+* While on the intern academy I was able to adapt to new software languages and challenges quickly. Getting a quick understanding and able to add value. Working on different tickets that required using different languages. I.e. python, ruby, JS, TS, C#, react and PHP.
+
+##### <ins>Supportive skills:</ins> #####
+
+* Supporting the other interns when they came across blockers. Working together to overcome personal challenges and discovering new ways of achieving goals and providing value.
+
+##### <ins>Collaborative skills:</ins> #####
+
+* Working with mid to senior level developers on tickets and being able to add value while working with new languages. As well as shadowing of other parts of the business and being able to address functionality problems to help support them do their job.
           
 **Samuel Rhodes School** (Feb-2020 to Dec-2021)
 _Class Room Teaching Assistant_
